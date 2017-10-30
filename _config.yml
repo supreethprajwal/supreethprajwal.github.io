@@ -1,1 +1,23 @@
-theme: jekyll-theme-cayman
+# Permalinks
+permalink: pretty
+
+# Setup
+host: localhost
+title: Supreeth Prajwal Shashikumar
+url: https://supreethprajwal.github.io
+
+author:
+    name: Supreeth Prajwal Shashikumar
+    url: https://twitter.com/sprajw
+    email: supreeth@gatech.edu
+
+future: true
+permalink: "/:title/"
+
+pages_list:
+    Research: '/research'
+
+markdown: kramdown
+
+gems:
+    - jekyll-seo-tag
