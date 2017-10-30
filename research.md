@@ -10,7 +10,8 @@ Recently, I have also been working with Google Cloud's ML Engine for developing 
 
 My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Prof. Gari Clifford](http://gdclifford.info/people/gari).
 
-+ [Papers (Published)](#papers--(published))
++ [Papers (Published)](#papers--published)
++ [Patents](#patents)
 + [Expertise](#expertise)
 + [Software](#software)
 + [Advisors & collaborators](#advisors--collaborators)
