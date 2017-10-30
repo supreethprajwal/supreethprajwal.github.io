@@ -17,8 +17,6 @@ permalink: "/:title/"
 pages_list:
     Research: '/research'
 
-theme: jekyll-theme-cayman
-
 markdown: kramdown
 
 gems:
