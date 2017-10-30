@@ -17,7 +17,7 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 + [Software](#software)
 + [Advisors & collaborators](#advisors--collaborators)
 
-## Papers (Published)
+## Papers (Published/Submitted)
 
 + **Supreeth P. Shashikumar**, Qiao Li, Gari D Clifford, and Shamim Nemati. *Multiscale Network representation of physiological time series for early prediction of sepsis*, Submitted to Physiological Measurement
 
