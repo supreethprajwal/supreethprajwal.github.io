@@ -11,9 +11,9 @@ Recently, I have also been working with Google Cloud's ML Engine for developing 
 My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Prof. Gari Clifford](http://gdclifford.info/people/gari).
 
 + [Papers (Published)](#papers--(published))
-+ [Techniques](#techniques)
++ [Expertise](#expertise)
 + [Software](#software)
-+ [Advisor & collaborators](#advisor--collaborators)
++ [Advisors & collaborators](#advisors--collaborators)
 
 ## Papers (Published)
 
@@ -30,6 +30,9 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 + **Supreeth P. Shashikumar**, Gari D Clifford, and Shamim Nemati.  *Detection of Paroxysmal Atrial Fibrillation using attention based bidirectional Recurrent Neural Networks*, In preparation
 
 + **Supreeth P. Shashikumar**, Shamim Nemati, et al. *A deep learning approach to early prediction of Sepsis in ICU*, In preparation
+
++ Qiao Li, Qichen Li, **Supreeth P. Shashikumar**, et al., *Sleep Staging Classification from Electrocardiogram using a Deep Learning Approach*, In preparation
+
 
 ## Patents 
 
