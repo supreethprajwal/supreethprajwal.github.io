@@ -16,6 +16,7 @@ permalink: "/:title/"
 
 pages_list:
     Research: '/research'
+    Teaching: '/teaching'
 
 markdown: kramdown
 
