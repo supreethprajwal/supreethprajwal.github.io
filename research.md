@@ -25,7 +25,7 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 
 + **Supreeth P. Shashikumar**, Amit J. Shah, Qiao Li, Gari D Clifford, and Shamim Nemati. *A deep learning approach to monitoring and detecting atrial fibrillation using wearable technology*, In Biomedical & Health Informatics, 2017 IEEE International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/7897225/)
 
-+ Biswajit D. Sarma, **Supreeth P. Shashikumar**, and S.R.M. Prasanna. *Improved vowel onset and offset points detection using bessel features*, In Signal Processing and Communications (SPCOM), 2014 International Conference on [[Link]] (http://ieeexplore.ieee.org/abstract/document/6983913/)
++ Biswajit D. Sarma, **Supreeth P. Shashikumar**, and S.R.M. Prasanna. *Improved vowel onset and offset points detection using bessel features*, In Signal Processing and Communications (SPCOM), 2014 International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/6983913/)
 
 ## Papers (In Preparation)
 
