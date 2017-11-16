@@ -6,7 +6,7 @@ title: "Research"
 
 A major focus of my research has been in the Intensive Care Unit (ICU) and wearable technologies, where I've been applying deep learning algorithms that are capable of analyzing large volumes of data (such as vital time series, lab values etc.) for predicting clinical events such as Sepsis, Atrial Fibrillation etc. 
 
-Recently, I have also been working with Google Cloud's ML Engine for developing and depolying deep learning models for predicting Sepsis in the ICU.
+Recently, I have also been working with Google Cloud's ML Engine for developing and deploying deep learning models for predicting Sepsis in the ICU.
 
 My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Prof. Gari Clifford](http://gdclifford.info/people/gari).
 
