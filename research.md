@@ -29,6 +29,8 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 
 ## Papers (In Preparation)
 
++ Erik Reinertsen, **Supreeth P. Shashikumar**, Amit J. Shah, Shamim Nemati, and Gari D. Clifford, *Heart rate-locomotor activity interactions assessed by transfer entropy and network dynamics are altered in schizophrenia*, In preparation
+
 + **Supreeth P. Shashikumar**, Gari D Clifford, and Shamim Nemati.  *Detection of Paroxysmal Atrial Fibrillation using attention based bidirectional Recurrent Neural Networks*, In preparation
 
 + **Supreeth P. Shashikumar**, Shamim Nemati, et al. *A deep learning approach to early prediction of Sepsis in ICU*, In preparation
