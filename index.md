@@ -7,10 +7,10 @@ title: "Home"
    <img align="left" src="assets/supreeth_pic2_crop.jpeg" width="180">
 </div>
 
-<i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/sprajw) <br>
-<i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/supreeth-prajwal/) <br>
-<i class='fa fa-graduation-cap fa-fw'></i>  [google scholar](https://scholar.google.com/citations?user=BPT-V4AAAAAJ&hl=en) <br>
-<i class='fa fa-file-text fa-fw'></i>  [resume](https://supreethprajwal.github.io/cv) <br>
+<i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/sprajw){:target="_blank"} <br>
+<i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/supreeth-prajwal/){:target="_blank"} <br>
+<i class='fa fa-graduation-cap fa-fw'></i>  [google scholar](https://scholar.google.com/citations?user=BPT-V4AAAAAJ&hl=en){:target="_blank"} <br>
+<i class='fa fa-file-text fa-fw'></i>  [resume](https://supreethprajwal.github.io/cv){:target="_blank"} <br>
 <i class='fa fa-envelope fa-fw'></i> <a id="email"></> <br> 
 
 <script>
