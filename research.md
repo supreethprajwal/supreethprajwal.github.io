@@ -10,14 +10,15 @@ Recently, I have also been working with Google Cloud's ML Engine for developing 
 
 My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Prof. Gari Clifford](http://gdclifford.info/people/gari).
 
-+ [Papers (Published)](#papers--published)
-+ [Papers (In Preparation)](#papers--In-preparation)
++ [Publications](#publications)
 + [Patents](#patents)
 + [Expertise](#expertise)
 + [Software](#software)
 + [Advisors & collaborators](#advisors--collaborators)
 
-## Papers (Published)
+## Publications
+
+### Published
 
 + **Supreeth P. Shashikumar**, Qiao Li, Gari D Clifford, and Shamim Nemati. *Multiscale Network representation of physiological time series for early prediction of sepsis*, In Physiological Measurement, 2017 [[Link]](http://iopscience.iop.org/article/10.1088/1361-6579/aa9772){:target="_blank"}
 
@@ -27,13 +28,13 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 
 + Biswajit D. Sarma, **Supreeth P. Shashikumar**, and S.R.M. Prasanna. *Improved vowel onset and offset points detection using bessel features*, In Signal Processing and Communications (SPCOM), 2014 International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/6983913/){:target="_blank"}
 
-### Publications
+### Submitted/In preparation
 
-## Papers (In Preparation)
++ **Supreeth P. Shashikumar**, Amit J. Shah, Gari D. Clifford, and Shamim Nemati.  *Detection of Paroxysmal Atrial Fibrillation using attention based bidirectional Recurrent Neural Networks*, Submitted to KDD 2018
 
-+ Erik Reinertsen, **Supreeth P. Shashikumar**, Amit J. Shah, Shamim Nemati, and Gari D. Clifford, *Heart rate-locomotor activity interactions assessed by transfer entropy and network dynamics are altered in schizophrenia*, In preparation
++ Erik Reinertsen, **Supreeth P. Shashikumar**, Amit J. Shah, Shamim Nemati, and Gari D. Clifford, *Heart rate-locomotor activity interactions assessed by transfer entropy and network dynamics are altered in schizophrenia*, Submitted to Annals of Biomedical Engineering
 
-+ **Supreeth P. Shashikumar**, Gari D Clifford, and Shamim Nemati.  *Detection of Paroxysmal Atrial Fibrillation using attention based bidirectional Recurrent Neural Networks*, In preparation
++ Joel Henry, Dennis Lynch, Jeff Mals, **Supreeth P. Shashikumar**, Andre holder, Ashish Sharma and Shamim Nemati, *A FHIR-Enabled streaming sepsis prediction system for ICUs*, Submitted to the 40th International Conference of the IEEE Engineering in Medicine and Biology Society 2018
 
 + **Supreeth P. Shashikumar**, Shamim Nemati, et al. *A deep learning approach to early prediction of Sepsis in ICU*, In preparation
 
