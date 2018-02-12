@@ -27,6 +27,8 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 
 + Biswajit D. Sarma, **Supreeth P. Shashikumar**, and S.R.M. Prasanna. *Improved vowel onset and offset points detection using bessel features*, In Signal Processing and Communications (SPCOM), 2014 International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/6983913/){:target="_blank"}
 
+### Publications
+
 ## Papers (In Preparation)
 
 + Erik Reinertsen, **Supreeth P. Shashikumar**, Amit J. Shah, Shamim Nemati, and Gari D. Clifford, *Heart rate-locomotor activity interactions assessed by transfer entropy and network dynamics are altered in schizophrenia*, In preparation
