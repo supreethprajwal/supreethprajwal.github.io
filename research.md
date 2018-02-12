@@ -19,13 +19,13 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 
 ## Papers (Published)
 
-+ **Supreeth P. Shashikumar**, Qiao Li, Gari D Clifford, and Shamim Nemati. *Multiscale Network representation of physiological time series for early prediction of sepsis*, In Physiological Measurement, 2017 [[Link]](http://iopscience.iop.org/article/10.1088/1361-6579/aa9772)
++ **Supreeth P. Shashikumar**, Qiao Li, Gari D Clifford, and Shamim Nemati. *Multiscale Network representation of physiological time series for early prediction of sepsis*, In Physiological Measurement, 2017 [[Link]](http://iopscience.iop.org/article/10.1088/1361-6579/aa9772){:target="_blank"}
 
-+ **Supreeth P. Shashikumar**, Matthew D. Stanley, Ismail Sadiq, Andre Holder, Gari D Clifford, and Shamim Nemati. *Early sepsis detection in critical care patients using multiscale blood pressure and heart rate dynamics*, In Journal of Electrocardiology, 2017 [[Link]](http://www.sciencedirect.com/science/article/pii/S0022073617302546)
++ **Supreeth P. Shashikumar**, Matthew D. Stanley, Ismail Sadiq, Andre Holder, Gari D Clifford, and Shamim Nemati. *Early sepsis detection in critical care patients using multiscale blood pressure and heart rate dynamics*, In Journal of Electrocardiology, 2017 [[Link]](http://www.sciencedirect.com/science/article/pii/S0022073617302546){:target="_blank"}
 
-+ **Supreeth P. Shashikumar**, Amit J. Shah, Qiao Li, Gari D Clifford, and Shamim Nemati. *A deep learning approach to monitoring and detecting atrial fibrillation using wearable technology*, In Biomedical & Health Informatics, 2017 IEEE International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/7897225/)
++ **Supreeth P. Shashikumar**, Amit J. Shah, Qiao Li, Gari D Clifford, and Shamim Nemati. *A deep learning approach to monitoring and detecting atrial fibrillation using wearable technology*, In Biomedical & Health Informatics, 2017 IEEE International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/7897225/){:target="_blank"}
 
-+ Biswajit D. Sarma, **Supreeth P. Shashikumar**, and S.R.M. Prasanna. *Improved vowel onset and offset points detection using bessel features*, In Signal Processing and Communications (SPCOM), 2014 International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/6983913/)
++ Biswajit D. Sarma, **Supreeth P. Shashikumar**, and S.R.M. Prasanna. *Improved vowel onset and offset points detection using bessel features*, In Signal Processing and Communications (SPCOM), 2014 International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/6983913/){:target="_blank"}
 
 ## Papers (In Preparation)
 
