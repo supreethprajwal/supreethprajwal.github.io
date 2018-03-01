@@ -20,7 +20,7 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 
 ### Published
 
-+ **Supreeth P. Shashikumar**, Qiao Li, Gari D Clifford, and Shamim Nemati. *Multiscale Network representation of physiological time series for early prediction of sepsis*, In Physiological Measurement, 2017 [[Link]](http://iopscience.iop.org/article/10.1088/1361-6579/aa9772){:target="_blank"} [[Physiological Measurement Highlights of 2017]]([[Link]](http://iopscience.iop.org/journal/0967-3334/page/Highlights_of_2017){:target="_blank"}target="_blank"}
++ **Supreeth P. Shashikumar**, Qiao Li, Gari D Clifford, and Shamim Nemati. *Multiscale Network representation of physiological time series for early prediction of sepsis*, In Physiological Measurement, 2017 [[Link]](http://iopscience.iop.org/article/10.1088/1361-6579/aa9772){:target="_blank"} [[Physiological Measurement Highlights of 2017]](http://iopscience.iop.org/journal/0967-3334/page/Highlights_of_2017){:target="_blank"}
 
 + **Supreeth P. Shashikumar**, Matthew D. Stanley, Ismail Sadiq, Andre Holder, Gari D Clifford, and Shamim Nemati. *Early sepsis detection in critical care patients using multiscale blood pressure and heart rate dynamics*, In Journal of Electrocardiology, 2017 [[Link]](http://www.sciencedirect.com/science/article/pii/S0022073617302546){:target="_blank"}
 
