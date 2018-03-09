@@ -22,5 +22,4 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 </script>
 
 ---
-I'm a PhD candidate in the School of Electrical and Computer Engineering at Georgia Tech. I'm interested in developing computational tools and machine learning algorithms to analyze medical data. 
-I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Gari Clifford](http://gdclifford.info/people/gari) in the Department of Biomedical Informatics at Emory University.
+I'm a PhD candidate in the School of Electrical and Computer Engineering at Georgia Tech. I'm interested in developing computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Gari Clifford](http://gdclifford.info/people/gari) in the Department of Biomedical Informatics at Emory University.
