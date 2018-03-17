@@ -4,6 +4,12 @@ permalink: /publications/
 title: "Publications"
 ---
 
+## Patents 
+
++ Shamim Nemati, Gari D. Clifford, **Supreeth P. Shashikumar**, Andre Holder. *System for predicting or identifying patient deterioration or improvement*, United States provisional patent application #62/534,322, filed July 19, 2017
+
++ Shamim Nemati, **Supreeth P. Shashikumar**, et al. *Method for detecting abnormal cardiac activity*, United States provisional patent application #62/437,457, filed December 21, 2016
+
 ### Published
 
 + **Supreeth P. Shashikumar**, Qiao Li, Gari D Clifford, and Shamim Nemati. *Multiscale Network representation of physiological time series for early prediction of sepsis*, In Physiological Measurement, 2017 [[Link]](http://iopscience.iop.org/article/10.1088/1361-6579/aa9772){:target="_blank"} [[Physiological Measurement Highlights of 2017]](http://iopscience.iop.org/journal/0967-3334/page/Highlights_of_2017){:target="_blank"}
@@ -27,8 +33,4 @@ title: "Publications"
 + Qiao Li, Qichen Li, **Supreeth P. Shashikumar**, et al., *Sleep Staging Classification from Electrocardiogram using a Deep Learning Approach*, In preparation
 
 
-## Patents 
 
-+ Shamim Nemati, Gari D. Clifford, **Supreeth P. Shashikumar**, Andre Holder. *System for predicting or identifying patient deterioration or improvement*, United States provisional patent application #62/534,322, filed July 19, 2017
-
-+ Shamim Nemati, **Supreeth P. Shashikumar**, et al. *Method for detecting abnormal cardiac activity*, United States provisional patent application #62/437,457, filed December 21, 2016
