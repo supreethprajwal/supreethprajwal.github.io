@@ -4,9 +4,7 @@ permalink: /research/
 title: "Research"
 ---
 
-A major focus of my research has been in the Intensive Care Unit (ICU) and wearable technologies, where I've been applying deep learning algorithms that are capable of analyzing large volumes of data (such as vital time series, lab values etc.) for predicting clinical events such as Sepsis, Atrial Fibrillation etc. 
-
-Recently, I have also been working with Google Cloud's ML Engine for developing and deploying deep learning models for predicting Sepsis in the ICU.
+The rapid advances in technology and widespread adoption of Electronic Health Records in healthcare has created an abundance of clinical data, and has faciliated for the development of algorithms to model human health. I am particularly interested in using deep learning methods to model patient's trajectory and to predict adverse clinical events in the ICU. I am developing deep learning based models to predict Sepsis - a medical condition characterized by whole-body inflammation which affects between 800,000 and 3.1 million Americans, and Atrial fibrillation - which is often characterized by an irregular heart rate. Apart from performing retrospective clinial analysis, I care about deploying these algorithms in the real world. And to this end our lab is actively developing real time streaming platforms for deployment of our models in the ICU.
 
 My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Prof. Gari Clifford](http://gdclifford.info/people/gari).
 

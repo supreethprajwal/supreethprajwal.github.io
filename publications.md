@@ -6,9 +6,9 @@ title: "Publications"
 
 ## Patents 
 
-+ Shamim Nemati, Gari D. Clifford, **Supreeth P. Shashikumar**, Andre Holder. *System for predicting or identifying patient deterioration or improvement*, United States provisional patent application #62/534,322, filed July 19, 2017
++ Shamim Nemati, Gari D. Clifford, and **Supreeth P. Shashikumar** *System for predicting or identifying patient deterioration or improvement*, United States provisional patent application #62/534,322, filed July 19, 2017
 
-+ Shamim Nemati, **Supreeth P. Shashikumar**, et al. *Method for detecting abnormal cardiac activity*, United States provisional patent application #62/437,457, filed December 21, 2016
++ Shamim Nemati, **Supreeth P. Shashikumar**, Gari D. Clifford, and Amit Shah. *Method for detecting abnormal cardiac activity*, United States provisional patent application #62/437,457, filed December 21, 2016
 
 ### Published
 
