@@ -22,11 +22,11 @@ title: "Publications"
 
 ### Submitted/In preparation
 
-+ **Supreeth P. Shashikumar**, Amit J. Shah, Gari D. Clifford, and Shamim Nemati.  *Detection of Paroxysmal Atrial Fibrillation using attention based bidirectional Recurrent Neural Networks*, Submitted to KDD 2018
++ **Supreeth P. Shashikumar**, Amit J. Shah, Gari D. Clifford, and Shamim Nemati.  *Detection of Paroxysmal Atrial Fibrillation using attention based bidirectional Recurrent Neural Networks*, Accepted to the 24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2018), London, UK, 2018
+
++ Joel Henry, Dennis Lynch, Jeff Mals, **Supreeth P. Shashikumar**, Andre holder, Ashish Sharma and Shamim Nemati, *A FHIR-Enabled streaming sepsis prediction system for ICUs*, Accepted to the 40th International Conference of the IEEE Engineering in Medicine and Biology Society 2018 (EMBS 2018), Honolulu, Hawaii, 2018
 
 + Erik Reinertsen, **Supreeth P. Shashikumar**, Amit J. Shah, Shamim Nemati, and Gari D. Clifford, *Heart rate-locomotor activity interactions assessed by transfer entropy and network dynamics are altered in schizophrenia*, Submitted to Annals of Biomedical Engineering
-
-+ Joel Henry, Dennis Lynch, Jeff Mals, **Supreeth P. Shashikumar**, Andre holder, Ashish Sharma and Shamim Nemati, *A FHIR-Enabled streaming sepsis prediction system for ICUs*, Submitted to the 40th International Conference of the IEEE Engineering in Medicine and Biology Society 2018
 
 + **Supreeth P. Shashikumar**, Shamim Nemati, et al. *A deep learning approach to early prediction of Sepsis in ICU*, In preparation
 
