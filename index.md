@@ -32,6 +32,18 @@ I'm a PhD candidate in the School of Electrical and Computer Engineering at Geor
   PhD in Electrical and Computer Engineering  
   Advisors: [Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Gari Clifford](http://gdclifford.info/people/gari)
 
-+ National Institute of Technology - Karnataka, India, *August 2011 - May 2015*
++ National Institute of Technology - Karnataka, India, *August 2011 - May 2015*  
   B.Tech in Electronics and Communication Engineering
+
+---
+## Professional Experience
+
++ **Microsoft Research, Cambridge, UK**, *May 2018 - Present*  
+  **Research Intern**  
+  Working in the Healthcare AI team on developing interpretable models for predicting clinical outcomes of patients with Traumatic Brain Injury
+
++ **Qualcomm, Bangalore, India **, *May 2014 - July 2014*  
+  **Engineering Intern**  
+  Worked in the System Performance Team to review the thermal framework of Qualcomm’s flagship Snap-dragon chipsets
+
 
