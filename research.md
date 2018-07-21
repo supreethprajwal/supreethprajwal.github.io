@@ -14,6 +14,7 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 + [Software](#software)
 + [Advisors & collaborators](#advisors--collaborators)
 
+---
 ## Expertise
 
 + Predictive analytics in Healthcare 
@@ -25,11 +26,12 @@ My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.
 + ECG, PPG and accelerometer data analysis
 + Information & graph theory
 
-
+---
 ## Software 
 
 `Matlab`, `Python`, $$\LaTeX{}$$
 
+---
 ## Advisors & collaborators
 
 + [Shamim Nemati, PhD](http://nematilab.info/people/shamim/index.html), Biomedical Informatics

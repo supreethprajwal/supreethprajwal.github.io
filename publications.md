@@ -10,6 +10,7 @@ title: "Publications"
 
 + Shamim Nemati, **Supreeth P. Shashikumar**, Gari D. Clifford, and Amit Shah. *Method for Detecting Abnormal Cardiac Activity*, United States provisional patent application #62/437,457, filed December 21, 2016
 
+---
 ### Published
 
 + **Supreeth P. Shashikumar**, Qiao Li, Gari D Clifford, and Shamim Nemati. *Multiscale Network Representation of Physiological Time Series for Early Prediction of Sepsis*, In Physiological Measurement, 2017 [[Link]](http://iopscience.iop.org/article/10.1088/1361-6579/aa9772){:target="_blank"} [[Physiological Measurement Highlights of 2017]](http://iopscience.iop.org/journal/0967-3334/page/Highlights_of_2017){:target="_blank"}
@@ -24,6 +25,7 @@ title: "Publications"
 
 + Biswajit D. Sarma, **Supreeth P. Shashikumar**, and S.R.M. Prasanna. *Improved Vowel Onset and Offset points Detection using Bessel Features*, In Signal Processing and Communications (SPCOM), 2014 International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/6983913/){:target="_blank"}
 
+---
 ### Submitted/In preparation
 
 + **Supreeth P. Shashikumar**, Shamim Nemati, et al. *End-to-End Development and Deployment of a Deep Learning Model for Early Prediction of Sepsis in the ICU*, In preparation
@@ -31,6 +33,3 @@ title: "Publications"
 + Erik Reinertsen, **Supreeth P. Shashikumar**, Amit J. Shah, Shamim Nemati, and Gari D. Clifford, *Multiscale Network Dynamics between Heart Rate and Locomotor Activity are Altered in Schizophrenia*, Submitted to Physiological Measurements
 
 + Qiao Li, Qichen Li, **Supreeth P. Shashikumar**, et al., *Sleep Staging Classification from Electrocardiogram using a Deep Learning Approach*, In preparation
-
-
-
