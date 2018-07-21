@@ -8,12 +8,6 @@ The rapid advances in technology and widespread adoption of Electronic Health Re
 
 Apart from performing retrospective clinial analysis, I care about deploying these algorithms in the real world. And to this end our lab is actively developing real time streaming platforms for deployment of our models in the ICU.
 
-My advisors are [Prof. Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Prof. Gari Clifford](http://gdclifford.info/people/gari).
-
-+ [Expertise](#expertise)
-+ [Software](#software)
-+ [Advisors & collaborators](#advisors--collaborators)
-
 ---
 ## Expertise
 
