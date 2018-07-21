@@ -28,9 +28,12 @@ I'm a PhD candidate in the School of Electrical and Computer Engineering at Geor
 ## Education
 
 + Georgia Institute of Technology, Atlanta, USA, *August 2015 - Present*
+  
   PhD in Electrical and Computer Engineering (Specific Field: Predictive Analytics in Healthcare)
+  
   Advisors: [Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Gari Clifford](http://gdclifford.info/people/gari)
 
 + National Institute of Technology - Karnataka, India, *August 2011 - May 2015*
+  
   B.Tech in Electronics and Communication Engineering
 
