@@ -24,16 +24,14 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 ## About Me
 I'm a PhD candidate in the School of Electrical and Computer Engineering at Georgia Tech. I'm interested in developing computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Gari Clifford](http://gdclifford.info/people/gari) in the Department of Biomedical Informatics at Emory University.
+
 ---
 ## Education
 
-+ Georgia Institute of Technology, Atlanta, USA, *August 2015 - Present*
-  
-  PhD in Electrical and Computer Engineering (Specific Field: Predictive Analytics in Healthcare)
-  
++ Georgia Institute of Technology, Atlanta, USA, *August 2015 - Present*  
+  PhD in Electrical and Computer Engineering
   Advisors: [Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Gari Clifford](http://gdclifford.info/people/gari)
 
 + National Institute of Technology - Karnataka, India, *August 2011 - May 2015*
-  
   B.Tech in Electronics and Communication Engineering
 
