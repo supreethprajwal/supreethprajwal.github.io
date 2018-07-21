@@ -42,7 +42,7 @@ I'm a PhD candidate in the School of Electrical and Computer Engineering at Geor
   **Research Intern**  
   Working in the Healthcare AI team on developing interpretable models for predicting clinical outcomes of patients with Traumatic Brain Injury
 
-+ **Qualcomm, Bangalore, India **, *May 2014 - July 2014*  
++ **Qualcomm, Bangalore, India**, *May 2014 - July 2014*  
   **Engineering Intern**  
   Worked in the System Performance Team to review the thermal framework of Qualcomm’s flagship Snap-dragon chipsets
 
