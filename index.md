@@ -7,6 +7,9 @@ title: "Home"
    <img align="left" src="assets/supreeth_pic2_crop.jpeg" width="180">
 </div>
 
+## About Me
+I'm a PhD candidate in the School of Electrical and Computer Engineering at Georgia Tech. I'm interested in developing computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Gari Clifford](http://gdclifford.info/people/gari) in the Department of Biomedical Informatics at Emory University.
+
 <i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/sprajw){:target="_blank"} <br>
 <i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/supreeth-prajwal/){:target="_blank"} <br>
 <i class='fa fa-graduation-cap fa-fw'></i>  [google scholar](https://scholar.google.com/citations?user=BPT-V4AAAAAJ&hl=en){:target="_blank"} <br>
@@ -20,10 +23,6 @@ email_address += ".edu";
 $("#email").attr("href", "mailto:" + email_address).html("email");
 //-->
 </script>
-
----
-## About Me
-I'm a PhD candidate in the School of Electrical and Computer Engineering at Georgia Tech. I'm interested in developing computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html) and [Gari Clifford](http://gdclifford.info/people/gari) in the Department of Biomedical Informatics at Emory University.
 
 ---
 ## Education
