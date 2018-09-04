@@ -37,9 +37,9 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 ## Professional Experience
 
-+ **Microsoft Research, Cambridge, UK**, *May 2018 - Present*  
++ **Microsoft Research, Cambridge, UK**, *May 2018 - August 2018*  
   **Research Intern**  
-  Working in the Healthcare AI team on developing interpretable models for predicting clinical outcomes of patients with Traumatic Brain Injury
+  Worked in the Healthcare ML team to develop interpretable models for predicting clinical outcomes of patients with Traumatic Brain Injury
 
 + **Qualcomm, Bangalore, India**, *May 2014 - July 2014*  
   **Engineering Intern**  
