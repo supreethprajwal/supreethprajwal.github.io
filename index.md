@@ -39,7 +39,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 
 + **Microsoft Research Cambridge, UK**, *May 2018 - August 2018*  
   **Research Intern**  
-  Worked in the Healthcare ML team to develop interpretable models for predicting clinical outcomes of patients with Traumatic Brain Injury 
+  Worked in the Healthcare ML team to develop interpretable models for predicting clinical outcomes of patients with Traumatic Brain Injury  
   Advisors: Pijika Watcharapichat, [Cheng Zhang](https://cheng-zhang.org/) and [Ari Ercole](http://anaesthetics.medschl.cam.ac.uk/staff/ari-ercole/)
 
 + **Qualcomm, Bangalore, India**, *May 2014 - July 2014*  
