@@ -42,6 +42,6 @@ title: "Publications"
 + Biswajit D. Sarma, **Supreeth P. Shashikumar**, and S.R.M. Prasanna. *Improved Vowel Onset and Offset points Detection using Bessel Features*, In Signal Processing and Communications (SPCOM), 2014 International Conference on [[Link]](http://ieeexplore.ieee.org/abstract/document/6983913/){:target="_blank"}
 
 --- 
-### Conference (Submitted/In preparation)
+### Conferences (Submitted/In preparation)
 
 + Russell Jeter, Li-Wei Lehman, **Supreeth P. Shashikumar**, et.al., *Simultaneous Learning of Reward and Reinforcement Learning Policy Using Counterfactual Reasoning and Bayesian Optimization*, Submitted to AAAI 2018
