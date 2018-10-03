@@ -23,7 +23,7 @@ Apart from performing retrospective clinial analysis, I care about deploying the
 ---
 ## Software 
 
-`Matlab`, `Python`, $$\LaTeX{}$$
+`MATLAB`, `Python`
 
 ---
 ## Advisors & collaborators
