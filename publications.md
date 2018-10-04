@@ -26,7 +26,7 @@ title: "Publications"
 
 + **Supreeth P. Shashikumar**, Cheng Zhang, et al., *Machine Learning for Time-Sensitive Outcome Prediction after Severe Traumatic Brain Injury*, In preparation
 
-+ Qiao Li, Qichen Li, **Supreeth P. Shashikumar**, et al., *Deep Learning in the Cross-Time-Frequency Domain for Sleep Staging from a Single Lead Electrocardiogram*, Submitted to Phsiological Measurement
++ Qiao Li, Qichen Li, **Supreeth P. Shashikumar**, et al., *Deep Learning in the Cross-Time-Frequency Domain for Sleep Staging from a Single Lead Electrocardiogram*, Under peer review
 
 ---
 ### Conferences (Published/Accepted)
