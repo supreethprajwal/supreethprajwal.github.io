@@ -44,4 +44,4 @@ title: "Publications"
 --- 
 ### Conferences (Submitted/In preparation)
 
-+ Russell Jeter, Li-Wei Lehman, **Supreeth P. Shashikumar**, et.al., *Simultaneous Learning of Reward and Reinforcement Learning Policy Using Counterfactual Reasoning and Bayesian Optimization*, Submitted to AAAI 2018
++ N/A
