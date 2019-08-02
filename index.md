@@ -8,7 +8,7 @@ title: "Home"
 </div>
 
 ## About Me
-I'm a PhD candidate in the School of Electrical and Computer Engineering at Georgia Tech. I'm interested in developing computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html)  in the Department of Biomedical Informatics at University of California San Diego.
+I'm a PhD candidate in the School of Electrical and Computer Engineering at Georgia Tech. I'm also a visiting graduate student with the Department of Biomedical Informatics at UC San Diego Health. I'm interested in developing computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html)  in the Department of Biomedical Informatics at University of California San Diego.
 
 <i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/sprajw){:target="_blank"} <br>
 <i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/supreeth-prajwal/){:target="_blank"} <br>
