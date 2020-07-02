@@ -8,7 +8,7 @@ title: "Home"
 </div>
 
 ## About Me
-I'm a PhD candidate in the School of Electrical and Computer Engineering at Georgia Tech. I'm also a visiting graduate student with the Department of Biomedical Informatics at UC San Diego Health. I'm interested in developing computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html)  in the Department of Biomedical Informatics at University of California San Diego.
+I'm currently working as a research scientist in the NematiLab @ Department of Biomedical Informatics, UCSD. I completed my PhD in 2020 from the School of Electrical and Computer Engineering at Georgia Tech. My thesis focused on developing generalizable prediction models for critical illnesses such as Sepsis, Arrhythmia and AKI. I'm interested in developing generalizable computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html)  in the Department of Biomedical Informatics at University of California San Diego.
 
 <i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/sprajw){:target="_blank"} <br>
 <i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/supreeth-prajwal/){:target="_blank"} <br>
@@ -27,7 +27,7 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
 ---
 ## Education
 
-+ Georgia Institute of Technology, Atlanta, USA, *August 2015 - Present*  
++ Georgia Institute of Technology, Atlanta, USA, *August 2015 - May 2020*  
   PhD in Electrical and Computer Engineering  
   Advisor: [Shamim Nemati](http://nematilab.info/people/shamim/index.html)
 
@@ -46,4 +46,6 @@ $("#email").attr("href", "mailto:" + email_address).html("email");
   **Engineering Intern**  
   Worked in the System Performance Team to review the thermal framework of Qualcomm’s flagship Snap-dragon chipsets
 
-
+---
+## Mathematics Genealogy Project:
+Supreeth Shashikumar ← Shamim Nemati ← George Verghese ← Thomas Kailath ← John McReynolds Wozencraft ← Robert Fano ← Ernst Guillemin ← Arnold Sommerfeld ← Ferdinand Lindemann ← Felix Klein ← Rudolf Lipschitz ← Gustav Dirichlet ← (Simeon Poisson, Jean-Baptiste Fourier) ← (Joseph Lagrange, Pierre-Simon Laplace) ← (Leonhard Euler, Jean d'Alembert) ← (Johann Bernoulli, Jacob Bernoulli)      
