@@ -3,6 +3,7 @@ layout: page
 permalink: /publications/
 title: "Publications"
 ---
+Please see [google scholar](https://scholar.google.com/citations?user=BPT-V4AAAAAJ&hl=en){:target="_blank"} <br> for an updated list of my publications.
 
 ## Patents 
 
