@@ -7,7 +7,7 @@ title: "Home"
    <img align="left" src="assets/supreeth_pic2_crop.jpeg" width="180">
 </div>
 
-## About Me
+## About Me - Test
 I'm currently working as a research scientist in the NematiLab @ Department of Biomedical Informatics, UCSD. I completed my PhD in 2020 from the School of Electrical and Computer Engineering at Georgia Tech. My thesis focused on developing generalizable prediction models for critical illnesses such as Sepsis, Arrhythmia and AKI. I'm interested in developing generalizable computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html)  in the Department of Biomedical Informatics at University of California San Diego.
 
 <i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/sprajw){:target="_blank"} <br>
