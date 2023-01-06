@@ -7,18 +7,18 @@ title: "Home"
    <img align="left" src="assets/supreeth_pic2_crop.jpeg" width="180">
 </div>
 
-## About Me - Test
+## About Me
 I'm currently working as a research scientist in the NematiLab @ Department of Biomedical Informatics, UCSD. I completed my PhD in 2020 from the School of Electrical and Computer Engineering at Georgia Tech. My thesis focused on developing generalizable prediction models for critical illnesses such as Sepsis, Arrhythmia and AKI. I'm interested in developing generalizable computational tools and machine learning algorithms to predict adverse health outcomes by analyzing clinical data. I work with [Shamim Nemati](http://nematilab.info/people/shamim/index.html)  in the Department of Biomedical Informatics at University of California San Diego.
 
-<i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/sprajw){:target="_blank"} <br>
-<i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/supreeth-prajwal/){:target="_blank"} <br>
+<i class='fa fa-twitter fa-fw'></i>  [twitter](https://twitter.com/spshash){:target="_blank"} <br>
+<i class='fa fa-linkedin fa-fw'></i> [linkedin](https://www.linkedin.com/in/sprajwal/){:target="_blank"} <br>
 <i class='fa fa-graduation-cap fa-fw'></i>  [google scholar](https://scholar.google.com/citations?user=BPT-V4AAAAAJ&hl=en){:target="_blank"} <br>
 <i class='fa fa-file-text fa-fw'></i>  [resume]({{ site.baseurl }}/assets/Supreeth_Shashikumar_Resume.pdf){:target="_blank"} <br>
 <i class='fa fa-envelope fa-fw'></i> <a id="email"></> <br> 
 
 <script>
 <!--
-var email_address = "supreeth" + "@" + "gatech";
+var email_address = "spshashikumar" + "@" + "health.ucsd";
 email_address += ".edu";
 $("#email").attr("href", "mailto:" + email_address).html("email");
 //-->

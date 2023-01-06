@@ -8,8 +8,8 @@ url: https://supreethprajwal.github.io
 
 author:
     name: Supreeth Prajwal Shashikumar
-    url: https://twitter.com/sprajw
-    email: supreeth@gatech.edu
+    url: https://twitter.com/spshash
+    email: spshashikumar@health.ucsd.edu
 
 future: true
 permalink: "/:title/"
@@ -17,7 +17,6 @@ permalink: "/:title/"
 pages_list:
     Research: '/research'
     Publications: '/publications'
-    Teaching: '/teaching'
 
 markdown: kramdown
 

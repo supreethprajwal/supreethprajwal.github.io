@@ -13,12 +13,10 @@ Apart from performing retrospective clinial analysis, I care about deploying the
 
 + Predictive analytics in Healthcare 
 + Applied Deep Learning
-+ Google Cloud – ML Engine
 + Signal Processing
 + Multivariate time series 
 + Data visualization
 + ECG, PPG and accelerometer data analysis
-+ Information & graph theory
 
 ---
 ## Software 
@@ -28,6 +26,6 @@ Apart from performing retrospective clinial analysis, I care about deploying the
 ---
 ## Advisors & collaborators
 
-+ [Shamim Nemati, PhD](http://nematilab.info/people/shamim/index.html), Biomedical Informatics
-+ [Gari Clifford, DPhil](http://gdclifford.info/people/gari), Biomedical Informatics & BME
-+ [Amit Shah, MD, MSCR](https://sph.emory.edu/faculty/profile/#!AJSHAH3), Cardiology & Epidemiology
++ [Dr. Shamim Nemati](http://nematilab.info/people/shamim/index.html)
++ [Dr. Atul Malhotra](https://profiles.ucsd.edu/atul.malhotra)
++ [Dr. Gabriel Wardi](https://profiles.ucsd.edu/gabriel.wardi)
